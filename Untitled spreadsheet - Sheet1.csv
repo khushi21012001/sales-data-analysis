@@ -1,0 +1,11 @@
+order id ,product ,city ,price 
+1,phone ,delhi ,20000
+2,laptop,mumbai,60000
+3,phone ,pune,20000
+4,tablet ,delhi ,15000
+5,laptop ,pune,60000
+6,phone ,mumbai,20000
+7,tablet ,pune,15000
+8,laptop,delhi ,60000
+9,phone ,pune,20000
+10,tablet ,mumbai,15000
